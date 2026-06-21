@@ -1,0 +1,10 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Axios learned",
+      "description": "Practiced CRUD operations"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
