@@ -1,9 +1,9 @@
 {
   "notes": [
     {
-      "id": "1",
-      "title": "Axios learned",
-      "description": "Practiced CRUD operations"
+      "title": "Notes Crud app",
+      "description": "Built notes crud app",
+      "id": "NTCt_qxkWeQ"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
